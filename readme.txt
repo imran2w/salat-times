@@ -2,10 +2,10 @@
 Contributors: imran2w
 Developer link: https://imran.link
 Donate link: https://imran.link
-Tags: Salat, Namaz, Prayer, Muslim, Islam, Time, Bengali, Bangla, Bangladesh
+Tags: Salat, Namaz, Prayer Time, Muslim, Islam
 Requires at least: 3.0
 Tested up to: 7.0
-Stable tag: 3.7
+Stable tag: 3.7.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
